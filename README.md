@@ -13,3 +13,11 @@ int getDate()
 {
 	return "01/26/2022";
 }
+string getName()
+{
+	return "Debmalya Banerjee";
+}
+string Actor()
+{
+	return "Akshay Kumar";
+}

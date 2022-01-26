@@ -15,3 +15,7 @@ string name()
 {
 	return "Debmalya";
 }
+string Actor()
+{
+	return "Akshay Kumar";
+}

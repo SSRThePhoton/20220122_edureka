@@ -7,3 +7,7 @@ int getTime()
 {
 	return "10:39 am";
 }
+string getName()
+{
+	return "Debmalya Banerjee";
+}
