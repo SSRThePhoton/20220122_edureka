@@ -11,3 +11,7 @@ string getName()
 {
 	return "Debmalya Banerjee";
 }
+string Actor()
+{
+	return "Akshay Kumar";
+}
