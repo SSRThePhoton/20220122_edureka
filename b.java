@@ -11,3 +11,7 @@ int getDate()
 {
 	return "01/25/2022"
 }
+string name()
+{
+	return "Debmalya";
+}

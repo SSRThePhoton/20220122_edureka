@@ -8,3 +8,8 @@ int getTime()
 {
 	return "10:02 am";
 }
+
+int getDate()
+{
+	return "01/26/2022";
+}
