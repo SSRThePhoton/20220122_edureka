@@ -4,7 +4,7 @@ void main()
 }
 int getTime()
 {
-	return "11:27 am"
+	return "11:09 am"
 }
 
 int getDate()
