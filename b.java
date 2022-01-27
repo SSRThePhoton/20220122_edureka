@@ -22,3 +22,7 @@ string Actor()
 {
 	return "Akshay Kumar";
 }
+string getDay()
+{
+	return "Republic Day";
+}
